@@ -1,1 +1,0 @@
-{"name":"Thriceprime","tagline":"redirect to aboutme","body":"<script>\r\nif (window.location.href.indexOf('http://jameshwang.github.com/thriceprime') === 0) {\r\n  window.location.href = 'http://about.me/jameshwang';\r\n}\r\n</script>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
